@@ -1,0 +1,6 @@
+- Add all GA's on webhosting
+- Drag and drop bot for updating GA sets
+- Create subdomains on webhosting - create special bot
+- Finish links for orders
+- Create new list for TF services
+-
